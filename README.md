@@ -1,5 +1,5 @@
 
-# Hi, I'm Tharushi Muthumali Edirisinghe 👋
+# Hi, I'm Tharushi Muthumali Edirisinghe 
 
 ### IT Undergraduate | Aspiring Software Engineer & QA Engineer
 
